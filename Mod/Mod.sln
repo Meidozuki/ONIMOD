@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compost", "Compost\Compost.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMod", "TestMod\TestMod.csproj", "{54A8171F-9E77-4EE5-8347-40751706302A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesaltMachine", "DesaltMachine\DesaltMachine.csproj", "{05BA0391-2A87-42F6-87C2-0EBB29F3E0B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{54A8171F-9E77-4EE5-8347-40751706302A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54A8171F-9E77-4EE5-8347-40751706302A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54A8171F-9E77-4EE5-8347-40751706302A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05BA0391-2A87-42F6-87C2-0EBB29F3E0B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BA0391-2A87-42F6-87C2-0EBB29F3E0B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BA0391-2A87-42F6-87C2-0EBB29F3E0B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BA0391-2A87-42F6-87C2-0EBB29F3E0B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
